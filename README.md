@@ -8,7 +8,7 @@ The Prisma Todo Backend is a robust backend solution for managing tasks in a Tod
 
 ## Features
 ### RESTful API Endpoints:
-Create, read, update, and delete tasks.
+Create, read, update, and delete tasks. \n
 User registration and login.
 Secure endpoints with authentication and authorization.
 ### Database Schema:
