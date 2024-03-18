@@ -1,8 +1,6 @@
 # todo-backend
 🚀 Backend for a Todo App: Building Efficiency with Node.js, Express.js, MongoDB, and Prisma
 
-!Project Logo <!-- Add a logo or relevant image if available -->
-
 ##  first-level headingOverview
 The Prisma Todo Backend is a robust backend solution for managing tasks in a Todo App. Built with Node.js, Express.js, MongoDB, and Prisma, this project offers powerful features to streamline your task management process.
 
